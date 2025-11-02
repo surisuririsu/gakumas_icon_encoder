@@ -7,7 +7,9 @@ dev
 p_item_model.pt
 p_item_model.onnx
 p_item_embeddings.json
+p_item_classes.json
 
 skill_card_model.pt
 skill_card_model.onnx
 skill_card_embeddings.json
+skill_card_classes.json
